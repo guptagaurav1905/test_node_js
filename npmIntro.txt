@@ -1,0 +1,15 @@
+// Npm enable us to do 3 things 
+
+//(Node packahe Manager)
+
+// reuse our own code in others project
+// use code written by other developers
+// share our own solution with anyone 
+
+//NPM calls a reusable code a package
+//a package is a folder contains a js code
+
+//modules and dependency are also the same thing 
+
+// there in no quality control
+
